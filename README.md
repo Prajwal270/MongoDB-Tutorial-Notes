@@ -25,5 +25,5 @@ https://nodejs.org/en/download/
 ## Extra Information
 
 If getting error in any of the above steps and not able to run the file,
-then just this [Sandbox](https://codesandbox.io/s/mongodb-tutorial-notes-we030f)
+then just run this [codeSandbox](https://codesandbox.io/s/mongodb-tutorial-notes-we030f)
 
