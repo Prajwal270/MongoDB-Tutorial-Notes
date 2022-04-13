@@ -7,6 +7,13 @@ Fork and Download the whole repository
 Extract it from zip file
 Open the folder containing the file in a vscode
 Open the vs code terminal and run the following commands
+### Steps
+
+- Download the whole repository
+- Extract it from zip file and save it in a folder
+- Open the folder containing the file in a vscode 
+- Open the VScode terminal Or open the folder location in cmd
+- Run the following commands
 
 
 ```bash
